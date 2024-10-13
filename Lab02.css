@@ -38,7 +38,7 @@ PART 1: Using the ELEMENT Selector:
 
 PART 2: Using ID or CLASS Selectors: 
 * Step 1: **DONE** Notice that there are 2 images at the top, one shorter than the other. In the HTML file, find the ID for the shorter image and give it a property of {display: none;} in the CSS file.
-* Step 2:  **DONE** Now that the shorter image is hidden, when the screen is 500 pixels or less, the shorter image needs to display once again and the longer image needs to be hidden. Go to the last MEDIA QUERY in the CSS file and add the necessary properties to make this happen. If using Chrome, use the Chrome Dev tools to check the web page's responsiveness.
+* Step 2: **DONE** Now that the shorter image is hidden, when the screen is 500 pixels or less, the shorter image needs to display once again and the longer image needs to be hidden. Go to the last MEDIA QUERY in the CSS file and add the necessary properties to make this happen. If using Chrome, use the Chrome Dev tools to check the web page's responsiveness.
 * Step 3: **DONE** The caption for the top banner image is not under the image like it should be. Add a property to make the caption wrap under the image using flex.
 * Step 4: **DONE** In the DIV that has the 4 images, justify the content by putting space around each image.
 * Step 5: **DONE** Give the DIV that houses the "Top 5 Places to Visit..." a background color of rgb(0, 58, 66) and a border radius of 1 rem.
